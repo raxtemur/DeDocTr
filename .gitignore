@@ -3,6 +3,12 @@
 *.png
 datasets
 
+# Logs
+logs
+
+# Weights
+source
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
